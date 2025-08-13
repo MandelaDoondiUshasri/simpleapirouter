@@ -1,4 +1,4 @@
-# 🗨️ Simple API Router (Django Chatbot)
+# 🗨️ Simple API Router 
 
 A Django-based chatbot that can **detect intents**, extract parameters, and return appropriate responses for three core functions:
 
