@@ -159,8 +159,8 @@ DISPATCHER = {
 
 ## 👨‍💻 Author
 
-**Surya Prakash**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/nsprakashreddy/)
+**Doondi Usha Sri**
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mdushasri/)
 
 ```
 
