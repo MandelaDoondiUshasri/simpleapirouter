@@ -154,7 +154,7 @@ This document explains:
 ## 👨‍💻 Author
 
 **Doondi Usha Sri**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/nsprakashreddy/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mdushasri/)
 
 ```
 
