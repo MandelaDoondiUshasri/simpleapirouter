@@ -153,7 +153,7 @@ This document explains:
 
 ## 👨‍💻 Author
 
-**Surya Prakash**
+**Doondi Usha Sri**
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nsprakashreddy/)
 
 ```
